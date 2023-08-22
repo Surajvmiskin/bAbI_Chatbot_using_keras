@@ -42,6 +42,15 @@ To run this project on your local machine, follow these steps:
 ## Model Architecture
 The chatbot utilizes a neural network architecture consisting of Embedding layers, LSTMs, and dense layers to process stories and answer questions.
 
+
+## Results
+accuracy results
+![download](https://github.com/Surajvmiskin/bAbI_Chatbot_using_keras/assets/114627861/9658b4cd-4bf8-4f40-b577-bc2b1d5593d8)
+
+example:
+![Screenshot 2023-08-22 215309](https://github.com/Surajvmiskin/bAbI_Chatbot_using_keras/assets/114627861/fa3a9ecb-1881-496e-b594-aed216e82399)
+
+
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
 
