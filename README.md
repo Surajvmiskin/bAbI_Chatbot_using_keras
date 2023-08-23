@@ -53,8 +53,7 @@ The chatbot utilizes a neural network architecture consisting of Embedding layer
 ##  example:
 
 
-![Screenshot 2023-08-22 215309](https://github.com/Surajvmiskin/bAbI_Chatbot_using_keras/assets/114627861/415e5aa9-2679-40e8-8786-e750775e716d)
-
+![image](https://github.com/Surajvmiskin/bAbI_Chatbot_using_keras/assets/114627861/ed71d2e4-586d-48e7-a0e1-3e9307b7f3f8)
 
 
 ## Contributing
