@@ -1,4 +1,4 @@
-# BABI Chatbot Project
+# BABI Chatbot Projec
 
 Welcome to the BABI Chatbot project! This repository contains code and resources for building a chatbot using the BABI dataset.
 
