@@ -20,10 +20,10 @@ To run this project on your local machine, follow these steps:
    ````
    git clone https://github.com/your-username/babi-chatbot.git
    ````
-2.Install the required dependencies:
-   ````
-   pip install -r requirements.txt
-   ````
+   2.Install the required dependencies:
+      ````
+      pip install -r requirements.txt
+      ````
 3.Download the BABI dataset files: train_qa.txt and test_qa.txt:
   which is in Dataset file
 
