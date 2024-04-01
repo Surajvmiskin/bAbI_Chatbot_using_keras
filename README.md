@@ -24,6 +24,7 @@ To run this project on your local machine, follow these steps:
       ````
       pip install -r requirements.txt
       ````
+      
 3.Download the BABI dataset files: train_qa.txt and test_qa.txt:
   which is in Dataset file
 
