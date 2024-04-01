@@ -21,6 +21,7 @@ To run this project on your local machine, follow these steps:
    git clone https://github.com/your-username/babi-chatbot.git
    ````
 2.Install the required dependencies:
+
       ````
       pip install -r requirements.txt
       ````
