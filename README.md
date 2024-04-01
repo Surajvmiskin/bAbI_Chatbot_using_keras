@@ -17,8 +17,9 @@ This project demonstrates how to build a chatbot using the BABI dataset, which c
 To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/babi-chatbot.git
+   ```
 2.Install the required dependencies:
     ```bash
    pip install -r requirements.txt
