@@ -34,8 +34,11 @@ To run this project on your local machine, follow these steps:
   
 ## Usage
 -Train the chatbot using the BABI dataset.
+
 -Interact with the chatbot by providing stories and questions.
+
 -Evaluate the chatbot's performance on the test set.
+
 
 
 ## Model Architecture
