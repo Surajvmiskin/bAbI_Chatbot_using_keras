@@ -4,7 +4,7 @@ Welcome to the BABI Chatbot project! This repository contains code and resources
 
 ## Project Overview
 
-This project demonstrates how to build a chatbot using the BABI dataset, which consists of stories, questions, and answers. The chatbot is designed to answer questions based on the given stories and associated queries.
+This project demonstrates how to build a chatbot using the BABI dataset, which consists of stories, questions, and answers. The chatbot is designed to answer questions based on the given stories and associated queries. 
 
 ## Features 
 
