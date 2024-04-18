@@ -10,7 +10,7 @@ This project demonstrates how to build a chatbot using the BABI dataset, which c
 - Trains a chatbot using the BABI dataset.
 - Uses a neural network architecture to understand stories and answer questions.
 - Provides sample interactions and evaluation on the test set. 
-
+ 
 ## Getting Started
 
 To run this project on your local machine, follow these steps:
