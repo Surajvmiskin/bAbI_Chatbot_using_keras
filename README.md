@@ -57,6 +57,10 @@ Please use a valid input as shown.
 
 ![image](https://github.com/Surajvmiskin/bAbI_Chatbot_using_keras/assets/114627861/ed71d2e4-586d-48e7-a0e1-3e9307b7f3f8)
 
+Check out the website here :
+
+example:
+![image](https://github.com/user-attachments/assets/119442a0-f9a6-4a42-8517-3229d2592739)
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
